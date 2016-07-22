@@ -1,14 +1,14 @@
 {
   "name": "hyperterm-duotone-darkearth",
   "version": "0.1.0",
-  "description": "Duotone Dark Earch theme for Hyperterm",
+  "description": "Duotone Dark Earth theme for Hyperterm",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kkemple/hyperterm-duotone-darkspace.git"
+    "url": "git+https://github.com/kkemple/hyperterm-duotone-darkearth.git"
   },
   "keywords": [
     "hyperterm",
@@ -19,5 +19,5 @@
   "bugs": {
     "url": "https://github.com/kkemple/hyperterm-duotone-darkearth/issues"
   },
-  "homepage": "https://github.com/kkemple/hyperterm-duotone-darkearth#readme",
+  "homepage": "https://github.com/kkemple/hyperterm-duotone-darkearth#readme"
 }
